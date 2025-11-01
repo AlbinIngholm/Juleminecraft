@@ -1,0 +1,5 @@
+site_name: Julemincraft Docs
+nav:
+  - Home: Documentation/index.md
+theme: readthedocs
+docs_dir: Documentation
